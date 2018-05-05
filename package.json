@@ -1,0 +1,26 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "Online course project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoemily/webdevelopmentcourse.git"
+  },
+  "author": "Emily Cao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoemily/webdevelopmentcourse/issues"
+  },
+  "homepage": "https://github.com/caoemily/webdevelopmentcourse#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17",
+    "request": "^2.85.0"
+  }
+}
