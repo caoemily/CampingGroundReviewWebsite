@@ -5,3 +5,13 @@
 .thumbnail{
     padding: 0;
 }
+
+#delete-camp-form{
+    display: inline;
+    float: right;
+}
+
+#delete-comment-form{
+    display: inline;
+    float: right;
+}
